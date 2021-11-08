@@ -1,3 +1,5 @@
+Plan fourni à l'adresse : https://pedago-ece.campusonline.me/mod/page/view.php?id=107663
+
 # Introduction
 <ul>
   <li>Present the topic you will address</li>
